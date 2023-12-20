@@ -1,0 +1,1 @@
+# abstract pymongo crud operations
